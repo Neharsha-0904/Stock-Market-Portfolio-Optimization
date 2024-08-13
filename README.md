@@ -33,19 +33,15 @@ The data spans the past year and includes daily records of:
 ### Data Visualization 📉
 
 - **Adjusted Close Prices Over Time**:
-  ![Adjusted Close Prices](images/adjusted_close_prices.png)
   This plot shows the adjusted close price of each stock over time.
 
 - **Moving Averages and Trading Volumes**:
-  ![Moving Averages](images/moving_averages.png)
   Visualize 50-day and 200-day moving averages alongside trading volumes for each stock.
 
 - **Distribution of Daily Returns**:
-  ![Daily Returns Distribution](images/daily_returns_distribution.png)
   A histogram displaying the distribution of daily returns for each stock.
 
 - **Correlation Matrix of Daily Returns**:
-  ![Correlation Matrix](images/correlation_matrix.png)
   A heatmap showing the correlation between daily returns of different stocks.
 
 ### Portfolio Optimization 💡
@@ -56,13 +52,11 @@ The data spans the past year and includes daily records of:
 2. **Simulate Portfolios**:
    - Random portfolios are generated to find the efficient frontier and identify the optimal portfolio with the highest Sharpe ratio.
 
-   ![Efficient Frontier](images/efficient_frontier.png)
    A scatter plot illustrating the efficient frontier with the Sharpe ratio as the color gradient.
 
 3. **Optimal Portfolio Allocation**:
    - The portfolio with the maximum Sharpe ratio is identified and its weights are provided.
 
-   ![Optimal Portfolio Weights](images/optimal_portfolio_weights.png)
    The allocation of assets in the optimal portfolio.
 
 ## Files and Code Structure 📁
